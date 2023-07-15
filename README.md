@@ -19,12 +19,11 @@ Clone the Repository: Start by cloning this repository to your local machine usi
 
 bash
 Copy code
-git clone https://github.com/your-username/movie-recommendation-system.git
+git clone https://github.com/VinaySingh561/Recommender_System.git
+
 Install Dependencies: Ensure that you have all the necessary dependencies installed. You can use the provided requirements.txt file to install the required packages:
 
-Copy code
-pip install -r requirements.txt
-Run the Code: Open the notebook or script containing the movie recommendation system code in your preferred Python environment (e.g., Jupyter Notebook, Google Colab) and execute the code cells or run the script.
+
 
 License
 This project is licensed under the MIT License.
@@ -33,5 +32,5 @@ Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
 Contact
-For any questions or inquiries, feel free to reach out to Your Name.
+For any questions or inquiries, feel free to reach out to Vinay Singh.
 
